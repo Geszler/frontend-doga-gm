@@ -1,191 +1,902 @@
 [
   {
-    "id": 2,
-    "title": "1984",
-    "author": "George Orwell",
-    "year": "1945",
-    "genre": "Dystopia",
-    "pages": 328,
-    "available": "true"
-  },
-  {
-    "id": 3,
-    "author": "J.R.R. Tolkien",
-    "title": "A Gyűrűk Ura: A király visszatér",
-    "year": 1955,
+    "id": 1,
+    "title": "A Tűz és Jég Dala",
+    "author": "George R.R. Martin",
+    "year": 1996,
     "genre": "Fantasy",
-    "pages": 416,
+    "pages": 694,
     "available": true
   },
   {
+    "id": 2,
+    "title": "A Gyűrűk Ura",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "genre": "Fantasy",
+    "pages": 1216,
+    "available": false
+  },
+  {
     "id": 4,
-    "author": "F. Scott Fitzgerald",
-    "title": "A nagy Gatsby",
-    "year": 1925,
-    "genre": "Classics",
-    "pages": 180,
+    "title": "A Katedrális",
+    "author": "Ken Follett",
+    "year": 1989,
+    "genre": "Történelmi",
+    "pages": 973,
     "available": true
   },
   {
     "id": 5,
-    "author": "Harper Lee",
-    "title": "Ne bántsátok a feketerigót",
-    "year": 1960,
-    "genre": "Fiction",
-    "pages": 324,
+    "title": "Harry Potter és a Bölcsek Köve",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "genre": "Fantasy",
+    "pages": 223,
     "available": true
   },
   {
     "id": 6,
-    "author": "J.D. Salinger",
-    "title": "Zabhegyező",
-    "year": 1951,
-    "genre": "Fiction",
-    "pages": 277,
+    "title": "Száz Év Magány",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "genre": "Irodalom",
+    "pages": 417,
     "available": false
   },
   {
     "id": 7,
-    "author": "Markus Zusak",
-    "title": "A könyvtolvaj",
-    "year": 2005,
-    "genre": "Historical Fiction",
-    "pages": 550,
+    "title": "A Neveletlen Nő",
+    "author": "E.L. James",
+    "year": 2011,
+    "genre": "Romantikus",
+    "pages": 514,
     "available": true
   },
   {
     "id": 8,
-    "author": "Dan Brown",
-    "title": "A Da Vinci-kód",
-    "year": 2003,
-    "genre": "Mystery",
-    "pages": 454,
+    "title": "A Per",
+    "author": "Franz Kafka",
+    "year": 1925,
+    "genre": "Dráma",
+    "pages": 278,
     "available": true
   },
   {
     "id": 9,
-    "author": "Stephen King",
-    "title": "It",
-    "year": 1986,
-    "genre": "Horror",
-    "pages": 1138,
-    "available": true
-  },
-  {
-    "id": 10,
-    "author": "Agatha Christie",
-    "title": "Tíz kicsi néger",
-    "year": 1939,
-    "genre": "Mystery",
-    "pages": 300,
+    "title": "A Végzet Határán",
+    "author": "Veronica Roth",
+    "year": 2011,
+    "genre": "Dystópia",
+    "pages": 487,
     "available": false
   },
   {
-    "id": 11,
-    "author": "J.R.R. Tolkien",
-    "title": "A hobbit",
-    "year": 1937,
-    "genre": "Fantasy",
-    "pages": 310,
+    "id": 10,
+    "title": "Az Éhezők Viadala",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "genre": "Dystópia",
+    "pages": 374,
     "available": true
   },
   {
+    "id": 11,
+    "title": "Alkonyat",
+    "author": "Stephenie Meyer",
+    "year": 2005,
+    "genre": "Romantikus",
+    "pages": 498,
+    "available": false
+  },
+  {
     "id": 12,
-    "author": "Isaac Asimov",
-    "title": "Alapítvány",
-    "year": 1951,
-    "genre": "Science Fiction",
-    "pages": 255,
+    "title": "A Kékszakállú Herceg Háza",
+    "author": "Boris Vian",
+    "year": 1947,
+    "genre": "Képzelet",
+    "pages": 193,
+    "available": true
+  },
+  {
+    "id": 13,
+    "title": "A Férfi, Aki Utolérte a Hókirálynőt",
+    "author": "David Lagercrantz",
+    "year": 2015,
+    "genre": "Thriller",
+    "pages": 421,
     "available": true
   },
   {
     "id": 14,
-    "author": "Margaret Atwood",
-    "title": "A szolgálólány meséje",
-    "year": 1985,
-    "genre": "Dystopia",
-    "pages": 311,
+    "title": "A Világ Képes Könyve",
+    "author": "H.G. Wells",
+    "year": 1898,
+    "genre": "Science Fiction",
+    "pages": 291,
     "available": true
   },
   {
     "id": 15,
-    "author": "Haruki Murakami",
-    "title": "Norwegian Wood",
-    "year": 1987,
-    "genre": "Fiction",
-    "pages": 296,
-    "available": false
-  },
-  {
-    "id": 16,
-    "author": "Neil Gaiman",
-    "title": "Amerikai istenek",
-    "year": 2001,
+    "title": "Mester és Margarita",
+    "author": "Mihail Bulgakov",
+    "year": 1966,
     "genre": "Fantasy",
-    "pages": 465,
+    "pages": 384,
     "available": true
   },
   {
+    "id": 16,
+    "title": "A Szél Árnyéka",
+    "author": "Carlos Ruiz Zafón",
+    "year": 2001,
+    "genre": "Irodalom",
+    "pages": 576,
+    "available": false
+  },
+  {
     "id": 17,
-    "author": "F. Scott Fitzgerald",
-    "title": "Tender is the Night",
-    "year": 1934,
-    "genre": "Classics",
-    "pages": 317,
+    "title": "A Ragyogás",
+    "author": "Stephen King",
+    "year": 1977,
+    "genre": "Horror",
+    "pages": 447,
     "available": true
   },
   {
     "id": 18,
-    "author": "William Peter Blatty",
-    "title": "Az ördögűző",
-    "year": 1971,
-    "genre": "Horror",
-    "pages": 399,
-    "available": false
+    "title": "A Hóhér",
+    "author": "Michael Shea",
+    "year": 1985,
+    "genre": "Fantasy",
+    "pages": 400,
+    "available": true
   },
   {
     "id": 19,
-    "author": "Douglas Adams",
-    "title": "Galaxis útikalauz stopposoknak",
-    "year": 1979,
-    "genre": "Science Fiction",
-    "pages": 224,
+    "title": "A Fehér Királynő",
+    "author": "Philippa Gregory",
+    "year": 2009,
+    "genre": "Történelmi",
+    "pages": 432,
     "available": true
   },
   {
     "id": 20,
-    "author": "Kurt Vonnegut",
-    "title": "Ötös számú vágóhíd",
-    "year": 1969,
-    "genre": "Fiction",
-    "pages": 275,
-    "available": true
+    "title": "Orosz Irodalom",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "genre": "Klasszikus",
+    "pages": 1225,
+    "available": false
   },
   {
     "id": 21,
-    "author": "Valaki",
-    "title": "Valami",
-    "year": "2004",
-    "genre": "Valami",
-    "pages": "500",
+    "title": "A Mi Könyvünk",
+    "author": "J.K. Rowling",
+    "year": 1999,
+    "genre": "Fantasy",
+    "pages": 511,
     "available": true
   },
   {
     "id": 22,
+    "title": "A Királyok Hatalma",
+    "author": "Brandon Sanderson",
+    "year": 2010,
+    "genre": "Fantasy",
+    "pages": 900,
+    "available": true
+  },
+  {
+    "id": 23,
+    "title": "A Múlt Szellemei",
+    "author": "Markus Zusak",
+    "year": 2005,
+    "genre": "Történelmi",
+    "pages": 560,
+    "available": false
+  },
+  {
+    "id": 24,
+    "title": "A Sötét Torony",
+    "author": "Stephen King",
+    "year": 1982,
+    "genre": "Fantasy",
+    "pages": 432,
+    "available": true
+  },
+  {
+    "id": 25,
+    "title": "A Tíz Parancsolat",
+    "author": "Moses",
+    "year": -1500,
+    "genre": "Könyv",
+    "pages": 80,
+    "available": false
+  },
+  {
+    "id": 26,
+    "title": "A Hatalom",
+    "author": "Naomi Alderman",
+    "year": 2016,
+    "genre": "Dystópia",
+    "pages": 400,
+    "available": true
+  },
+  {
+    "id": 27,
+    "title": "Két Perce",
+    "author": "Sarah Dessen",
+    "year": 2015,
+    "genre": "Romantikus",
+    "pages": 284,
+    "available": false
+  },
+  {
+    "id": 28,
+    "title": "Az Emberek Akik Változnak",
+    "author": "George Orwell",
+    "year": 1935,
+    "genre": "Politikai",
+    "pages": 364,
+    "available": true
+  },
+  {
+    "id": 29,
+    "title": "Nyomorúságok",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "genre": "Történelmi",
+    "pages": 1290,
+    "available": true
+  },
+  {
+    "id": 30,
+    "title": "Szent Péter Pál",
+    "author": "Thomas Mann",
+    "year": 1915,
+    "genre": "Történelmi",
+    "pages": 678,
+    "available": true
+  },
+  {
+    "id": 31,
+    "title": "A Fekete Szalon",
+    "author": "M. J. Arlidge",
+    "year": 2017,
+    "genre": "Thriller",
+    "pages": 368,
+    "available": false
+  },
+  {
+    "id": 32,
+    "title": "A Gyilkosok Mennyországa",
+    "author": "Sophie Hannah",
+    "year": 2013,
+    "genre": "Krimi",
+    "pages": 423,
+    "available": true
+  },
+  {
+    "id": 33,
+    "title": "Az Álmodozók",
+    "author": "Daphne du Maurier",
+    "year": 1952,
+    "genre": "Irodalom",
+    "pages": 288,
+    "available": true
+  },
+  {
+    "id": 34,
+    "title": "A Gonosz Visszatér",
+    "author": "Stephen King",
+    "year": 1983,
+    "genre": "Horror",
+    "pages": 507,
+    "available": true
+  },
+  {
+    "id": 35,
+    "title": "Fantasztikus Világok",
+    "author": "Isaac Asimov",
+    "year": 1983,
+    "genre": "Science Fiction",
+    "pages": 672,
+    "available": false
+  },
+  {
+    "id": 36,
+    "title": "Menny és Pokol",
+    "author": "Dante Alighieri",
+    "year": 1320,
+    "genre": "Irodalom",
+    "pages": 394,
+    "available": true
+  },
+  {
+    "id": 37,
+    "title": "A Románc Földje",
+    "author": "Julia Quinn",
+    "year": 2000,
+    "genre": "Romantikus",
+    "pages": 384,
+    "available": false
+  },
+  {
+    "id": 38,
+    "title": "Képtelen Képzelet",
+    "author": "M.J. Thomas",
+    "year": 2009,
+    "genre": "Fantasy",
+    "pages": 512,
+    "available": true
+  },
+  {
+    "id": 39,
+    "title": "A Fekete Kút",
+    "author": "Michael Crichton",
+    "year": 1994,
+    "genre": "Thriller",
+    "pages": 488,
+    "available": true
+  },
+  {
+    "id": 40,
+    "title": "Egy Hangyányi Szeretet",
+    "author": "Terry Pratchett",
+    "year": 2005,
+    "genre": "Humor",
+    "pages": 276,
+    "available": true
+  },
+  {
+    "id": 41,
+    "title": "A Boldog Kincs",
+    "author": "George Bernard Shaw",
+    "year": 1932,
+    "genre": "Dráma",
+    "pages": 340,
+    "available": false
+  },
+  {
+    "id": 42,
+    "title": "A Világforduló",
+    "author": "H.G. Wells",
+    "year": 1901,
+    "genre": "Science Fiction",
+    "pages": 312,
+    "available": true
+  },
+  {
+    "id": 43,
+    "title": "A Halál Csókja",
+    "author": "Darren Shan",
+    "year": 2004,
+    "genre": "Fantasy",
+    "pages": 401,
+    "available": true
+  },
+  {
+    "id": 44,
+    "title": "Az Utolsó Kísértet",
+    "author": "Oscar Wilde",
+    "year": 1887,
+    "genre": "Irodalom",
+    "pages": 364,
+    "available": true
+  },
+  {
+    "id": 45,
+    "title": "A Zárt Ajtó",
+    "author": "Agatha Christie",
+    "year": 1930,
+    "genre": "Krimi",
+    "pages": 350,
+    "available": true
+  },
+  {
+    "id": 46,
+    "title": "A Sötét Titok",
+    "author": "Dan Brown",
+    "year": 2000,
+    "genre": "Thriller",
+    "pages": 482,
+    "available": false
+  },
+  {
+    "id": 47,
+    "title": "A Fantomot A Házban",
+    "author": "Gaston Leroux",
+    "year": 1909,
+    "genre": "Klasszikus",
+    "pages": 503,
+    "available": true
+  },
+  {
+    "id": 48,
+    "title": "A Gép",
+    "author": "Philip K. Dick",
+    "year": 1977,
+    "genre": "Science Fiction",
+    "pages": 390,
+    "available": true
+  },
+  {
+    "id": 49,
+    "title": "A Titkos Élete",
+    "author": "Jonathan Franzen",
+    "year": 2012,
+    "genre": "Irodalom",
+    "pages": 698,
+    "available": true
+  },
+  {
+    "id": 50,
+    "title": "A Fehér Kereszt",
+    "author": "Ernest Hemingway",
+    "year": 1955,
+    "genre": "Irodalom",
+    "pages": 380,
+    "available": true
+  },
+  {
+    "id": 51,
+    "title": "A Kalózok Kalandja",
+    "author": "David Copperfield",
+    "year": 1861,
+    "genre": "Kaland",
+    "pages": 520,
+    "available": false
+  },
+  {
+    "id": 52,
+    "title": "A Szerencse Játék",
+    "author": "F. Scott Fitzgerald",
+    "year": 1924,
+    "genre": "Dráma",
+    "pages": 420,
+    "available": true
+  },
+  {
+    "id": 53,
+    "title": "Végső Esély",
+    "author": "Peter V. Brett",
+    "year": 2008,
+    "genre": "Fantasy",
+    "pages": 517,
+    "available": false
+  },
+  {
+    "id": 54,
+    "title": "A Tél Tündére",
+    "author": "Alison Croggon",
+    "year": 2002,
+    "genre": "Fantasy",
+    "pages": 315,
+    "available": true
+  },
+  {
+    "id": 55,
+    "title": "Állati Boldogság",
+    "author": "Terry Pratchett",
+    "year": 2004,
+    "genre": "Humor",
+    "pages": 278,
+    "available": true
+  },
+  {
+    "id": 56,
+    "title": "Ősi Könyv",
+    "author": "Mark Twain",
+    "year": 1885,
+    "genre": "Klasszikus",
+    "pages": 478,
+    "available": false
+  },
+  {
+    "id": 57,
+    "title": "Az Elfeledett Királynő",
+    "author": "Michael Moorcock",
+    "year": 1980,
+    "genre": "Fantasy",
+    "pages": 532,
+    "available": true
+  },
+  {
+    "id": 58,
+    "title": "A Félelem Irodalmából",
+    "author": "Stephen King",
+    "year": 1983,
+    "genre": "Horror",
+    "pages": 507,
+    "available": true
+  },
+  {
+    "id": 59,
+    "title": "A Hold Ahol",
+    "author": "Isaac Asimov",
+    "year": 1999,
+    "genre": "Science Fiction",
+    "pages": 623,
+    "available": true
+  },
+  {
+    "id": 60,
+    "title": "Az Utolsó Nap",
+    "author": "George Orwell",
+    "year": 1950,
+    "genre": "Dystópia",
+    "pages": 402,
+    "available": false
+  },
+  {
+    "id": 61,
+    "title": "Két Csillag",
+    "author": "J.K. Rowling",
+    "year": 2012,
+    "genre": "Fantasy",
+    "pages": 250,
+    "available": true
+  },
+  {
+    "id": 62,
+    "title": "A Szomszéd",
+    "author": "Rebecca James",
+    "year": 2015,
+    "genre": "Thriller",
+    "pages": 337,
+    "available": true
+  },
+  {
+    "id": 63,
+    "title": "Szentek és Bűnösök",
+    "author": "Ken Follett",
+    "year": 1993,
+    "genre": "Történelmi",
+    "pages": 600,
+    "available": false
+  },
+  {
+    "id": 64,
+    "title": "A Sötét Felhő",
+    "author": "Stephen King",
+    "year": 1989,
+    "genre": "Horror",
+    "pages": 421,
+    "available": true
+  },
+  {
+    "id": 65,
+    "title": "Az Istenek Harca",
+    "author": "Rick Riordan",
+    "year": 2009,
+    "genre": "Fantasy",
+    "pages": 315,
+    "available": false
+  },
+  {
+    "id": 66,
+    "title": "Hatalmas Városok",
+    "author": "John Grisham",
+    "year": 2001,
+    "genre": "Krimi",
+    "pages": 432,
+    "available": true
+  },
+  {
+    "id": 67,
+    "title": "Néma Szavak",
+    "author": "Vikram Seth",
+    "year": 1993,
+    "genre": "Irodalom",
+    "pages": 672,
+    "available": true
+  },
+  {
+    "id": 68,
+    "title": "A Folyó Túlpartján",
+    "author": "Terry Pratchett",
+    "year": 1996,
+    "genre": "Fantasy",
+    "pages": 410,
+    "available": true
+  },
+  {
+    "id": 69,
+    "title": "Kísértetek",
+    "author": "William Peter Blatty",
+    "year": 1971,
+    "genre": "Horror",
+    "pages": 375,
+    "available": false
+  },
+  {
+    "id": 70,
+    "title": "Az Égigérő Fa",
+    "author": "John Boyne",
+    "year": 2010,
+    "genre": "Irodalom",
+    "pages": 310,
+    "available": true
+  },
+  {
+    "id": 71,
+    "title": "A Király Hídja",
+    "author": "Lavinia Kent",
+    "year": 2014,
+    "genre": "Romantikus",
+    "pages": 380,
+    "available": true
+  },
+  {
+    "id": 72,
+    "title": "Hajsza a Kincsekért",
+    "author": "Michael Crichton",
+    "year": 1988,
+    "genre": "Thriller",
+    "pages": 455,
+    "available": true
+  },
+  {
+    "id": 73,
+    "title": "Elveszett Történelem",
+    "author": "Clive Cussler",
+    "year": 1999,
+    "genre": "Kaland",
+    "pages": 290,
+    "available": false
+  },
+  {
+    "id": 74,
+    "title": "A Remény Vágya",
+    "author": "Cassandra Clare",
+    "year": 2011,
+    "genre": "Fantasy",
+    "pages": 550,
+    "available": true
+  },
+  {
+    "id": 75,
+    "title": "Végzetes Lány",
+    "author": "Gillian Flynn",
+    "year": 2012,
+    "genre": "Thriller",
+    "pages": 470,
+    "available": true
+  },
+  {
+    "id": 76,
+    "title": "A Lovas",
+    "author": "Teresa Medeiros",
+    "year": 2006,
+    "genre": "Romantikus",
+    "pages": 352,
+    "available": true
+  },
+  {
+    "id": 77,
+    "title": "Elveszett Lelkek",
+    "author": "Erica Spindler",
+    "year": 2000,
+    "genre": "Horror",
+    "pages": 420,
+    "available": true
+  },
+  {
+    "id": 78,
+    "title": "Fekete Szél",
+    "author": "Margaret Weis",
+    "year": 1995,
+    "genre": "Fantasy",
+    "pages": 485,
+    "available": false
+  },
+  {
+    "id": 79,
+    "title": "A Keleti Királyság",
+    "author": "James Rollins",
+    "year": 2012,
+    "genre": "Thriller",
+    "pages": 550,
+    "available": true
+  },
+  {
+    "id": 80,
+    "title": "Sötét Kép",
+    "author": "Michael Crichton",
+    "year": 1997,
+    "genre": "Thriller",
+    "pages": 370,
+    "available": false
+  },
+  {
+    "id": 81,
+    "title": "A Király Művészete",
+    "author": "Jonathan Stroud",
+    "year": 2007,
+    "genre": "Fantasy",
+    "pages": 409,
+    "available": true
+  },
+  {
+    "id": 82,
+    "title": "A Képzelet Világa",
+    "author": "Terry Pratchett",
+    "year": 2001,
+    "genre": "Humor",
+    "pages": 250,
+    "available": true
+  },
+  {
+    "id": 83,
+    "title": "A Két Világ Között",
+    "author": "Alison Weir",
+    "year": 2014,
+    "genre": "Történelmi",
+    "pages": 300,
+    "available": true
+  },
+  {
+    "id": 84,
+    "title": "A Szent Sír Titka",
+    "author": "David Gibbins",
+    "year": 2009,
+    "genre": "Thriller",
+    "pages": 520,
+    "available": false
+  },
+  {
+    "id": 85,
+    "title": "Ősi Átok",
+    "author": "Raymond E. Feist",
+    "year": 2003,
+    "genre": "Fantasy",
+    "pages": 400,
+    "available": true
+  },
+  {
+    "id": 86,
+    "title": "A Királynő Titkai",
+    "author": "Holly Webb",
+    "year": 2010,
+    "genre": "Fantasy",
+    "pages": 388,
+    "available": true
+  },
+  {
+    "id": 87,
+    "title": "Szavak Tengerén",
+    "author": "Daphne du Maurier",
+    "year": 1938,
+    "genre": "Irodalom",
+    "pages": 501,
+    "available": true
+  },
+  {
+    "id": 88,
+    "title": "Az Elveszett Szórakozás",
+    "author": "Terry Pratchett",
+    "year": 2010,
+    "genre": "Humor",
+    "pages": 200,
+    "available": false
+  },
+  {
+    "id": 89,
+    "title": "A Napfény Története",
+    "author": "Geraldine Brooks",
+    "year": 2014,
+    "genre": "Történelmi",
+    "pages": 440,
+    "available": true
+  },
+  {
+    "id": 90,
+    "title": "Az Elveszett Társaság",
+    "author": "Ian Rankin",
+    "year": 2007,
+    "genre": "Krimi",
+    "pages": 428,
+    "available": true
+  },
+  {
+    "id": 91,
+    "title": "Földön Kívül",
+    "author": "Arthur C. Clarke",
+    "year": 1982,
+    "genre": "Science Fiction",
+    "pages": 450,
+    "available": true
+  },
+  {
+    "id": 92,
+    "title": "A Sötétség Királya",
+    "author": "Joe Abercrombie",
+    "year": 2006,
+    "genre": "Fantasy",
+    "pages": 434,
+    "available": true
+  },
+  {
+    "id": 93,
+    "title": "A Halálos Titkok",
+    "author": "Lauren Oliver",
+    "year": 2007,
+    "genre": "Thriller",
+    "pages": 390,
+    "available": false
+  },
+  {
+    "id": 94,
+    "title": "A Zarándok",
+    "author": "Paulo Coelho",
+    "year": 2000,
+    "genre": "Irodalom",
+    "pages": 382,
+    "available": true
+  },
+  {
+    "id": 95,
+    "title": "A Mágus",
+    "author": "John Fowles",
+    "year": 1965,
+    "genre": "Irodalom",
+    "pages": 582,
+    "available": true
+  },
+  {
+    "id": 96,
+    "title": "Vihar Építők",
+    "author": "George R.R. Martin",
+    "year": 1996,
+    "genre": "Fantasy",
+    "pages": 801,
+    "available": true
+  },
+  {
+    "id": 97,
+    "title": "A Nagy Tűz",
+    "author": "Anne Rice",
+    "year": 1995,
+    "genre": "Horror",
+    "pages": 412,
+    "available": false
+  },
+  {
+    "id": 98,
+    "title": "A Két Fej",
+    "author": "Matthew Stokoe",
+    "year": 2008,
+    "genre": "Horror",
+    "pages": 389,
+    "available": true
+  },
+  {
+    "id": 99,
+    "title": "Rosszfiúk",
+    "author": "Patricia Cornwell",
+    "year": 2000,
+    "genre": "Thriller",
+    "pages": 457,
+    "available": true
+  },
+  {
+    "id": 100,
+    "title": "Kincses Sziget",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "genre": "Kaland",
+    "pages": 383,
+    "available": true
+  },
+  {
+    "id": 101,
     "title": "Valami",
     "author": "Valaki",
     "year": "2004",
     "genre": "Valami",
     "pages": "500",
     "available": false
-  },
-  {
-    "id": 23,
-    "title": "Valaki",
-    "author": "Valaki",
-    "year": "02",
-    "genre": "nemtudom",
-    "pages": "033",
-    "available": true
   }
 ]
