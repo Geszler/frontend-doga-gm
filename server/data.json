@@ -1,21 +1,191 @@
 [
-    {
-      "id": 1,
-      "title": "Könyv 1",
-      "author": "Szerző 1",
-      "year": 2000,
-      "genre": "Műfaj 1",
-      "pages": 300,
-      "available": true
-    },
-    {
-      "id": 2,
-      "title": "Könyv 2",
-      "author": "Szerző 2",
-      "year": 2005,
-      "genre": "Műfaj 2",
-      "pages": 350,
-      "available": false
-    }
-  ]
-  
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": "1945",
+    "genre": "Dystopia",
+    "pages": 328,
+    "available": "true"
+  },
+  {
+    "id": 3,
+    "author": "J.R.R. Tolkien",
+    "title": "A Gyűrűk Ura: A király visszatér",
+    "year": 1955,
+    "genre": "Fantasy",
+    "pages": 416,
+    "available": true
+  },
+  {
+    "id": 4,
+    "author": "F. Scott Fitzgerald",
+    "title": "A nagy Gatsby",
+    "year": 1925,
+    "genre": "Classics",
+    "pages": 180,
+    "available": true
+  },
+  {
+    "id": 5,
+    "author": "Harper Lee",
+    "title": "Ne bántsátok a feketerigót",
+    "year": 1960,
+    "genre": "Fiction",
+    "pages": 324,
+    "available": true
+  },
+  {
+    "id": 6,
+    "author": "J.D. Salinger",
+    "title": "Zabhegyező",
+    "year": 1951,
+    "genre": "Fiction",
+    "pages": 277,
+    "available": false
+  },
+  {
+    "id": 7,
+    "author": "Markus Zusak",
+    "title": "A könyvtolvaj",
+    "year": 2005,
+    "genre": "Historical Fiction",
+    "pages": 550,
+    "available": true
+  },
+  {
+    "id": 8,
+    "author": "Dan Brown",
+    "title": "A Da Vinci-kód",
+    "year": 2003,
+    "genre": "Mystery",
+    "pages": 454,
+    "available": true
+  },
+  {
+    "id": 9,
+    "author": "Stephen King",
+    "title": "It",
+    "year": 1986,
+    "genre": "Horror",
+    "pages": 1138,
+    "available": true
+  },
+  {
+    "id": 10,
+    "author": "Agatha Christie",
+    "title": "Tíz kicsi néger",
+    "year": 1939,
+    "genre": "Mystery",
+    "pages": 300,
+    "available": false
+  },
+  {
+    "id": 11,
+    "author": "J.R.R. Tolkien",
+    "title": "A hobbit",
+    "year": 1937,
+    "genre": "Fantasy",
+    "pages": 310,
+    "available": true
+  },
+  {
+    "id": 12,
+    "author": "Isaac Asimov",
+    "title": "Alapítvány",
+    "year": 1951,
+    "genre": "Science Fiction",
+    "pages": 255,
+    "available": true
+  },
+  {
+    "id": 14,
+    "author": "Margaret Atwood",
+    "title": "A szolgálólány meséje",
+    "year": 1985,
+    "genre": "Dystopia",
+    "pages": 311,
+    "available": true
+  },
+  {
+    "id": 15,
+    "author": "Haruki Murakami",
+    "title": "Norwegian Wood",
+    "year": 1987,
+    "genre": "Fiction",
+    "pages": 296,
+    "available": false
+  },
+  {
+    "id": 16,
+    "author": "Neil Gaiman",
+    "title": "Amerikai istenek",
+    "year": 2001,
+    "genre": "Fantasy",
+    "pages": 465,
+    "available": true
+  },
+  {
+    "id": 17,
+    "author": "F. Scott Fitzgerald",
+    "title": "Tender is the Night",
+    "year": 1934,
+    "genre": "Classics",
+    "pages": 317,
+    "available": true
+  },
+  {
+    "id": 18,
+    "author": "William Peter Blatty",
+    "title": "Az ördögűző",
+    "year": 1971,
+    "genre": "Horror",
+    "pages": 399,
+    "available": false
+  },
+  {
+    "id": 19,
+    "author": "Douglas Adams",
+    "title": "Galaxis útikalauz stopposoknak",
+    "year": 1979,
+    "genre": "Science Fiction",
+    "pages": 224,
+    "available": true
+  },
+  {
+    "id": 20,
+    "author": "Kurt Vonnegut",
+    "title": "Ötös számú vágóhíd",
+    "year": 1969,
+    "genre": "Fiction",
+    "pages": 275,
+    "available": true
+  },
+  {
+    "id": 21,
+    "author": "Valaki",
+    "title": "Valami",
+    "year": "2004",
+    "genre": "Valami",
+    "pages": "500",
+    "available": true
+  },
+  {
+    "id": 22,
+    "title": "Valami",
+    "author": "Valaki",
+    "year": "2004",
+    "genre": "Valami",
+    "pages": "500",
+    "available": false
+  },
+  {
+    "id": 23,
+    "title": "Valaki",
+    "author": "Valaki",
+    "year": "02",
+    "genre": "nemtudom",
+    "pages": "033",
+    "available": true
+  }
+]
