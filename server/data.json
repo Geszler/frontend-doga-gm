@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Könyv 1",
+      "author": "Szerző 1",
+      "year": 2000,
+      "genre": "Műfaj 1",
+      "pages": 300,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Könyv 2",
+      "author": "Szerző 2",
+      "year": 2005,
+      "genre": "Műfaj 2",
+      "pages": 350,
+      "available": false
+    }
+  ]
+  
